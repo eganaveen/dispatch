@@ -1,4 +1,4 @@
 @Library('roboshop-shared-library@main') _
 
-env.COMPONENT="frontend"
+env.COMPONENT="dispatch"
 golang()
